@@ -1,0 +1,1 @@
+rint(s.index("x"))
